@@ -33,3 +33,4 @@ if prediction[0] == 1:
     print("The team MIL will make it to the playoffs.")
 else:
     print("The team MIL will not make it to the playoffs.")
+print("baseball stats")
