@@ -41,3 +41,4 @@ predicted_revenue = model.predict(new_df)
 
 # Step 7: Print or display the predicted monthly revenue
 print("Predicted Monthly Revenue:", predicted_revenue)
+print("Yay Money!!")
